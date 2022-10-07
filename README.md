@@ -6,6 +6,7 @@
 [![Java CI with Maven](https://github.com/anastaciocintra/escpos-coffee/actions/workflows/maven.yml/badge.svg)](https://github.com/anastaciocintra/escpos-coffee/actions/workflows/maven.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.anastaciocintra/escpos-coffee.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.anastaciocintra%22%20AND%20a:%22escpos-coffee%22)
 ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/com.github.anastaciocintra/escpos-coffee?server=https%3A%2F%2Foss.sonatype.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flwinminkhant%2Fescpos-coffee.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flwinminkhant%2Fescpos-coffee?ref=badge_shield)
 
 
 Java library for ESC/POS printer commands. Can send text, images and barcodes to the printer.
@@ -215,3 +216,7 @@ but before you do it its important to read and agree with [CODE_OF_CONDUCT.md](h
 
 ## Acknowledgments
 I would like to thanks [Michael Billington](https://github.com/mike42) and contributors for the great work on the [mike42/escpos-php](https://github.com/mike42/escpos-php) project that inspired me to start this project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flwinminkhant%2Fescpos-coffee.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flwinminkhant%2Fescpos-coffee?ref=badge_large)
